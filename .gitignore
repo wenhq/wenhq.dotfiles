@@ -1,0 +1,3 @@
+*.swp
+backup/.vim/bundle/*
+!backup/.vim/bundle/Vundle.vim/*
