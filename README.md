@@ -8,8 +8,9 @@ sudo softwareupdate -i -a
 xcode-select --install
 
 # 2. Install Software
+cd ~
 git clone https://github.com/coderzh/dotfiles.git
-source install.sh
+source dotfiles/install.sh
 
 # 3. Restore dotfiles
 mackup restore
