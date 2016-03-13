@@ -9,6 +9,7 @@ DOTFILES_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Package managers & packages
 . "$DOTFILES_DIR/install/brew.sh"
+. "$DOTFILES_DIR/install/pip.sh"
 . "$DOTFILES_DIR/install/vundle.sh"
 
 # Install fonts
