@@ -1,0 +1,264 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" timestamp="1456876805146">
+        <mark key="'" line="152" column="8" />
+        <mark key="[" line="167" column="10" />
+        <mark key="]" line="167" column="12" />
+        <mark key="." line="167" column="12" />
+        <mark key="^" line="167" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1456874829691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" timestamp="1456874017881">
+        <mark key="'" line="342" column="62" />
+        <mark key="[" line="155" column="20" />
+        <mark key="]" line="155" column="40" />
+        <mark key="." line="155" column="40" />
+        <mark key="^" line="155" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" timestamp="1457712387101">
+        <mark key="'" line="305" column="0" />
+        <mark key="[" line="78" column="114" />
+        <mark key="]" line="78" column="117" />
+        <mark key="." line="292" column="203" />
+        <mark key="^" line="78" column="117" />
+      </file>
+      <file name="$USER_HOME$/Code/Go/src/github.com/coderzh/hugo/commands/import_jekyll.go" timestamp="1456874812839">
+        <mark key="[" line="147" column="63" />
+        <mark key="]" line="148" column="29" />
+        <mark key="^" line="148" column="29" />
+        <mark key="." line="148" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/Go/gohugo.org/updatedoc_test.go" timestamp="1457708095609">
+        <mark key="[" line="53" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1456590000394">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="105" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="50" column="43" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="146" column="9" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="130" column="23" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="38" column="20" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="82" column="20" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="131" column="31" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="98" column="65" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="103" column="69" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="97" column="4" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="117" column="32" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="109" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="189" column="28" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="20" column="49" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="185" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="35" column="4" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="215" column="33" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="207" column="17" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="251" column="10" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="22" column="59" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="252" column="32" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="23" column="38" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="244" column="4" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="317" column="14" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="199" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="315" column="0" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="301" column="27" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="337" column="27" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="141" column="27" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="143" column="15" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="305" column="27" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="142" column="0" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="291" column="0" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="411" column="0" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="277" column="0" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="363" column="15" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="129" column="23" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="132" column="40" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="133" column="63" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="152" column="85" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="162" column="16" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="171" column="80" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="172" column="29" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="182" column="62" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="207" column="84" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="340" column="62" filename="$USER_HOME$/Code/Go/hugo/commands/import_jekyll.go" />
+      <jump line="150" column="8" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="158" column="20" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="166" column="11" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="366" column="16" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="15" column="0" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="121" column="50" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="149" column="0" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="155" column="68" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="191" column="16" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="154" column="16" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="156" column="24" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="226" column="17" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="334" column="26" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="339" column="26" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="368" column="34" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="387" column="30" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="414" column="14" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="423" column="14" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="431" column="18" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="437" column="18" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="443" column="18" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="449" column="18" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="456" column="14" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="458" column="18" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="467" column="14" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="81" column="13" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="152" column="8" filename="$USER_HOME$/Code/Go/src/github.com/spf13/hugo/commands/import_jekyll.go" />
+      <jump line="70" column="27" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="259" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="84" column="4" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="161" column="24" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="54" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc_test.go" />
+      <jump line="222" column="18" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="292" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="291" column="4" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="294" column="54" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+      <jump line="305" column="0" filename="$USER_HOME$/Code/Go/gohugo.org/updatedoc.go" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CT4gdGhlbWUvCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>-</text>
+      </register>
+      <register name="/" type="4">
+        <text>getSub</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CT4gdGhlbWUvCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>-</text>
+      </register>
+      <register name="2" type="4">
+        <text>-</text>
+      </register>
+      <register name="3" type="4">
+        <text>-</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlyZXBsYWNlTGlzdCA9IGFwcGVuZChyZXBsYWNlTGlzdCwgUmVwbGFjZUl0ZW17YChbIlwoXHNdKShgICsgZG9jU3ViRGlyICsgYCkvYCwgIiQxIGRvYy8kMi8ifSkK</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="7" type="4">
+        <text>`</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>getSub</last-search>
+      <last-offset />
+      <last-pattern>getSub</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Stat</entry>
+        <entry>0644</entry>
+        <entry>ReadDir</entry>
+        <entry>copyJe</entry>
+        <entry>PostDir</entry>
+        <entry>postDirs</entry>
+        <entry>check</entry>
+        <entry>subDir</entry>
+        <entry>Println</entry>
+        <entry>convertCon</entry>
+        <entry>convertFi</entry>
+        <entry>getSub</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s</entry>
+        <entry>q</entry>
+        <entry>e</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
