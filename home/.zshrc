@@ -1,5 +1,5 @@
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/coderzh/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 export PATH="$(brew --prefix)/bin:$PATH"
 
 # Set name of the theme to load.

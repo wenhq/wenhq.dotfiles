@@ -35,6 +35,7 @@ apps=(
     svn
     vim
     wget
+    zsh
 )
 
 caskapps=(
@@ -53,6 +54,7 @@ caskapps=(
     kindle
     macdown
     pomotodo
+    pycharm-ce
     qq
     qqmusic
     qqmacmgr

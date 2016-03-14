@@ -13,5 +13,5 @@ DOTFILES_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 . "$DOTFILES_DIR/install/vundle.sh"
 
 # Install fonts
-cp -r "$DOTFILES_DIR/fonts/*" ~/Library/Fonts/
+cp -r $DOTFILES_DIR/fonts/* ~/Library/Fonts/
 
