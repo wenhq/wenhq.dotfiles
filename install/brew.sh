@@ -30,6 +30,7 @@ apps=(
     mercurial
     mackup
     macvim
+    mysql
     python
     ruby
     svn
