@@ -87,6 +87,10 @@ source $ZSH/oh-my-zsh.sh
 alias vim="mvim --remote-tab-silent"
 alias gsup="git submodule foreach git pull --rebase origin master"
 
+ff() { find . -type f -iname "*$1*";}
+fd() { find . -type d -iname "*$1*";}
+findtext() { find .  -iname "$1" | xargs grep -n "$2";}
+
 # Add environment variable COCOS_CONSOLE_ROOT for cocos2d-x
 export COCOS_CONSOLE_ROOT=/Applications/Cocos/Cocos2d-x/cocos2d-x-3.10/tools/cocos2d-console/bin
 export PATH=$COCOS_CONSOLE_ROOT:$PATH
