@@ -1,0 +1,306 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1458116641109">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/static/js/main.js" timestamp="1458120031023">
+        <mark key="'" line="203" column="14" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/wechat_toolchain.py" timestamp="1458131490783">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="45" />
+        <mark key="." line="42" column="45" />
+        <mark key="^" line="42" column="14" />
+      </file>
+      <file name="/Python Console" timestamp="1458202493790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/base.py" timestamp="1458201603079">
+        <mark key="'" line="126" column="8" />
+        <mark key="[" line="75" column="26" />
+        <mark key="]" line="75" column="27" />
+        <mark key="." line="75" column="27" />
+        <mark key="^" line="75" column="27" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/createdb.py" timestamp="1458126004547">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/wechat.py" timestamp="1458201931407">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="101" column="32" />
+        <mark key="]" line="102" column="17" />
+        <mark key="^" line="102" column="17" />
+        <mark key="." line="102" column="17" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/main.py" timestamp="1458201919161">
+        <mark key="'" line="14" column="30" />
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="30" />
+        <mark key="." line="73" column="30" />
+        <mark key="^" line="73" column="30" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/oauth_fake.py" timestamp="1458130251487">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/main_test.py" timestamp="1458202712823">
+        <mark key="'" line="155" column="55" />
+        <mark key="[" line="170" column="32" />
+        <mark key="]" line="171" column="11" />
+        <mark key="." line="171" column="11" />
+        <mark key="^" line="171" column="11" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/toolchain_wechat.py" timestamp="1458200095903">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" timestamp="1458201744833">
+        <mark key="'" line="207" column="14" />
+        <mark key="[" line="256" column="76" />
+        <mark key="]" line="256" column="76" />
+        <mark key="." line="256" column="76" />
+        <mark key="^" line="255" column="64" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/toolchain_fake.py" timestamp="1458202490724">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+      </file>
+      <file name="$USER_HOME$/Work/logs_mgr/toolchain.py" timestamp="1458200000856">
+        <mark key="'" line="130" column="3" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="129" column="21" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="130" column="92" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="134" column="28" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="106" column="75" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="128" column="83" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="117" column="54" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="61" column="45" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="48" column="45" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="88" column="22" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="143" column="29" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="92" column="11" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="211" column="68" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="35" column="19" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="193" column="26" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="194" column="26" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="195" column="32" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="205" column="35" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="230" column="21" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="262" column="23" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="264" column="23" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="122" column="23" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="133" column="67" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="171" column="10" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="192" column="43" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="239" column="18" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="59" column="24" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="73" column="24" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="194" column="12" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/Work/logs_mgr/static/js/main.js" />
+      <jump line="189" column="14" filename="$USER_HOME$/Work/logs_mgr/static/js/main.js" />
+      <jump line="208" column="14" filename="$USER_HOME$/Work/logs_mgr/static/js/main.js" />
+      <jump line="211" column="10" filename="$USER_HOME$/Work/logs_mgr/static/js/main.js" />
+      <jump line="219" column="13" filename="$USER_HOME$/Work/logs_mgr/static/js/main.js" />
+      <jump line="203" column="14" filename="$USER_HOME$/Work/logs_mgr/static/js/main.js" />
+      <jump line="177" column="33" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="220" column="14" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="210" column="10" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="218" column="13" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="207" column="14" filename="$USER_HOME$/Work/logs_mgr/static/js/client_main.js" />
+      <jump line="164" column="0" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="146" column="19" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="15" column="14" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="36" column="29" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="75" column="61" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="143" column="46" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="183" column="0" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="123" column="72" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="142" column="47" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="136" column="20" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="51" column="16" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="132" column="56" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="20" column="27" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="86" column="23" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="88" column="16" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="90" column="16" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="91" column="16" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="94" column="14" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="96" column="73" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="85" column="18" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="58" column="31" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="117" column="11" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="15" column="13" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="122" column="7" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="76" column="8" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="125" column="60" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="0" column="11" filename="/Python Console" />
+      <jump line="155" column="55" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="15" column="15" filename="$USER_HOME$/Work/logs_mgr/main_test.py" />
+      <jump line="99" column="23" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="131" column="3" filename="$USER_HOME$/Work/logs_mgr/toolchain.py" />
+      <jump line="78" column="26" filename="$USER_HOME$/Work/logs_mgr/main.py" />
+      <jump line="69" column="42" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="75" column="67" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="73" column="67" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="52" column="45" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="90" column="12" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="48" column="12" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="85" column="17" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="94" column="26" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="12" column="28" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="89" column="34" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/Work/logs_mgr/toolchain_wechat.py" />
+      <jump line="97" column="47" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="90" column="32" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="107" column="89" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="126" column="8" filename="$USER_HOME$/Work/logs_mgr/base.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Work/logs_mgr/wechat.py" />
+      <jump line="14" column="30" filename="$USER_HOME$/Work/logs_mgr/main.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>file_path</text>
+      </register>
+      <register name="/" type="4">
+        <text>add_record</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGZpbGVfcGF0aCk6CiAgICAgICAgICAgICAgICB3aXRoIG9wZW4oZmlsZV9wYXRoKSBhcyBmOgogICAgICAgICAgICAgICAgICAgIGYud3JpdGUoJ2ZvciB0ZXN0aW5nOiAnICsgc3RyKGxvZykpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>file_path</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGZpbGVfcGF0aCk6Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>dir</text>
+      </register>
+      <register name="6" type="4">
+        <text>dir</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">cmVzdWx0CiAgICA=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">cmVzdWx0IA==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFkZCBmYWtlIGZpbGUKICAgICAgICBkaXIgPSBvcy5wYXRoLmpvaW4oc2VsZi5kYXRhX2RpciwgYXBwX25hbWUpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/utils\.log/self\.log\.info/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>add_record</last-search>
+      <last-offset />
+      <last-pattern>add_record</last-pattern>
+      <last-replace>self\.log\.info</last-replace>
+      <last-substitute>utils\.log</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>self\.db</entry>
+        <entry>urlencode</entry>
+        <entry>self\.app</entry>
+        <entry>toolchain</entry>
+        <entry>print</entry>
+        <entry>reason</entry>
+        <entry>gbk</entry>
+        <entry>datetime</entry>
+        <entry>wxname</entry>
+        <entry>getlog</entry>
+        <entry>GetLog</entry>
+        <entry>utils\.log</entry>
+        <entry>redo</entry>
+        <entry>CheckGetLog</entry>
+        <entry>svr_ip</entry>
+        <entry>login_user</entry>
+        <entry>login</entry>
+        <entry>logs_app</entry>
+        <entry>add_record</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>%s/utils\.log/self\.log\.info/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

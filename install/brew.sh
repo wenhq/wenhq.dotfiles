@@ -31,6 +31,7 @@ apps=(
     mackup
     macvim
     mysql
+    android-platform-tools
     python
     ruby
     svn

@@ -1,0 +1,41 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="logs_mgr" values="config.ssh.enabled,config.push.update.all.roots.enabled,data.local.branches.count.1,config.save.policy.STASH,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,data.remote.branches.count.1,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED" collectionTime="1458203043965" />
+    </group>
+    <group name="vcs">
+      <project id="logs_mgr" values="Git" collectionTime="1458203043956" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="logs_mgr" values="tests.Unittests,PythonConfigurationType" collectionTime="1458203043957" />
+    </group>
+    <group name="py-interpreter">
+      <project id="logs_mgr" values="Python 2.7.11" collectionTime="1458203043962" />
+    </group>
+    <group name="file-type">
+      <project id="logs_mgr" values="Images,UNKNOWN,PLAIN_TEXT,XML,HTML,CSS,JavaScript,ARCHIVE,Python" collectionTime="1458203043959" />
+    </group>
+    <group name="module type">
+      <project id="logs_mgr" values="PYTHON_MODULE" collectionTime="1458203043957" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.PythonConfigurationType.Debug" count="27" />
+      <entry feature="execute.PythonConfigurationType.Run" count="9" />
+      <entry feature="execute.tests.Debug" count="100" />
+      <entry feature="execute.tests.Run" count="39" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="8" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.Keymap" count="5" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Vim_Emulation" count="2" />
+      <entry feature="ideaapp.started" count="8" />
+      <entry feature="python.console.local" count="4" />
+      <entry feature="terminal.mac" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>
