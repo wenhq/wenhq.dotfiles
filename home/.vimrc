@@ -102,5 +102,5 @@ au FileType go nmap <Leader>gb <Plug>(go-doc-browser)
 au FileType go nmap <Leader>s <Plug>(go-implements)
 au FileType go nmap <Leader>i <Plug>(go-info)
 
-source /usr/local/lib/python2.7/site-packages/powerline/bindings/vim/plugin/powerline.vim
+set rtp+=/usr/local/lib/python2.7/site-packages/powerline/bindings/vim
 set laststatus=2
