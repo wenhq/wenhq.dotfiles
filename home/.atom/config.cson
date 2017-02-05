@@ -1,5 +1,9 @@
 "*":
+  core:
+    themes: [
+      "one-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor: {}
   "exception-reporting":
-    userId: "cf86ea80-fc17-dc65-96c0-8322ce156f19"
-  welcome:
-    showOnStartup: false
+    userId: "631812d0-f7e1-0782-f3e8-331bf2c86054"
