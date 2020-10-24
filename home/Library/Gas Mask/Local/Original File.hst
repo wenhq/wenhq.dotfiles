@@ -7,3 +7,7 @@
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
+
+127.0.0.1 genuine.microsoft.com
+127.0.0.1 mpa.one.microsoft.com
+127.0.0.1 sls.microsoft.com

@@ -1,9 +1,22 @@
 "*":
   core:
+    disabledPackages: [
+      "spell-check"
+      "markdown-toc"
+      "markdown-writer"
+      "markdown-preview-plus"
+    ]
+    telemetryConsent: "limited"
     themes: [
       "one-light-ui"
       "solarized-light-syntax"
     ]
   editor: {}
+  "ever-notedown": {}
   "exception-reporting":
     userId: "631812d0-f7e1-0782-f3e8-331bf2c86054"
+  "markdown-preview-plus":
+    breakOnSingleNewline: true
+  "markdown-writer": {}
+  welcome:
+    showOnStartup: false
